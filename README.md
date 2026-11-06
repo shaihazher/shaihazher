@@ -1,8 +1,8 @@
 # Azeruddin Sheikh
 
-**I build AI systems that survive production.** Former Amazon ML Architect. Now an independent consultant and product builder.
+**I build AI systems that survive production.** Amazon ML Architect. Independent consultant and product builder.
 
-I spent seven years as an ML architect and technical lead at Amazon, leading a team of 20+ scientists and engineers. The systems I owned served **2M+ requests per hour at 99.99% availability**. I cut inference latency by **80%**, built a classifier over **100,000+ classes** that raised accuracy by **35%**, and delivered **$20M+ in savings**.
+I have spent seven years as an ML architect and technical lead at Amazon, leading a team of 20+ scientists and engineers. The systems I owned served **2M+ requests per hour at 99.99% availability**. I cut inference latency by **80%**, built a classifier over **100,000+ classes** that raised accuracy by **35%**, and delivered **$20M+ in savings**.
 
 Now I help mid-market software companies fix slow, expensive, and unreliable AI systems — and I build products that force the same production decisions: install, update, local data, cost per request, and failures that name themselves.
 
