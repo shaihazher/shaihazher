@@ -8,6 +8,8 @@ Now I help mid-market software companies fix slow, expensive, and unreliable AI 
 
 Website: **[synthworx.com](https://synthworx.com)** · Email: **[hello@synthworx.com](mailto:hello@synthworx.com)**
 
+**Open work:** [kamaloki-bench](https://github.com/shaihazher/kamaloki-bench) · [tappi-goes-bonsai](https://github.com/shaihazher/tappi-goes-bonsai) · [tappi-for-chrome](https://github.com/shaihazher/tappi-for-chrome)
+
 ---
 
 ## What I'm working on
