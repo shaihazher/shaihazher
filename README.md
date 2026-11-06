@@ -49,6 +49,6 @@ I write about the work at [synthworx.com/notes](https://synthworx.com/notes).
 
 ## Elsewhere
 
-[Website](https://synthworx.com) · [Work](https://synthworx.com/work) · [Pikki](https://pikki.synthworx.com) · [LinkedIn](https://www.linkedin.com/in/shaihazher/) · [hello@synthworx.com](mailto:hello@synthworx.com)
+[Website](https://synthworx.com) · [Work](https://synthworx.com/work) · [Pikki](https://pikki.synthworx.com) · [LinkedIn](https://www.linkedin.com/in/azeruddinsheikh/) · [hello@synthworx.com](mailto:hello@synthworx.com)
 
 Based in Chennai, India. 8–11am ET overlap. I sign NDAs and do not train on client data.
